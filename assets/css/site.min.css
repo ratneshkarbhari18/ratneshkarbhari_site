@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+a.navbar-brand{
+    font-family: 'Righteous', cursive;
+}
+
+.ml-auto{
+    margin-left: auto !important;
+}
+.nav-link:hover{
+    color: blue !important;
+}
+.stronger{
+    font-weight: 900 !important;
+    color: #333 !important;
+}
+section.regular-section{
+    padding: 3em 0;
+}
+img#mugshot{
+    width: 75%;
+    border-radius: 20%;
+    box-shadow: 50px 50px 80px darkgray;
+    margin-left: 7em !important;
+}
+p#tagline {
+    font-weight: bold;
+    margin: 1.5em 0 0 0;
+    font-size: 2.5em;
+    color: #333;
+}
